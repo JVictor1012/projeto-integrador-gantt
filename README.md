@@ -15,7 +15,7 @@
   
     
     section Defesa
-    Preparação dos slides :p1, after c3, 10d
-    Ensaio da apresentação :p2, after c3, 7d
+    Preparação dos slides :p1, after b1, 10d
+    Ensaio da apresentação :p2, after b1, 7d
     Apresentação e entrega  :milestone, after p1, 1d
 ```
