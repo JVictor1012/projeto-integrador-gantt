@@ -11,7 +11,7 @@
     
     
     section Prototipação
-    Criação do prototipo      :b1, 2022-11-01, 30d
+    Criação do prototipo      :b1, 2022-11-01, 60d
   
     
     section Defesa
