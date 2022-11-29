@@ -4,12 +4,12 @@
     gantt
     title Cronograma de atividades do projeto
     dateFormat  YYYY-MM-DD
-    section Documentação
-    Pré-projeto     :a1, 2022-11-01, 15d
+    section Grupo 1
+    Idealização do Projeto      :a1, 2022-10-01, 30d
     Levantamento de literatura   :a2,after a1  , 20d
     Escrita da parte teórica  :a3,after a2, 7d
-    section Prototipação
-    Criação de telas do sistema     :       c2,     after a1  , 12d
+    section Grupo 2
+    Idealização do Projeto      :a1, 2022-10-01, 30d
     Criação do protótipo      :c3,     after c2, 14d
     section Defesa
     Preparação dos slides :p1, after c3, 10d
