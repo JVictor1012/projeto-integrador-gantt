@@ -15,7 +15,7 @@
   
     
     section Defesa
-    Preparação dos slides :p1, after b1, 10d
+    Preparação dos slides :p1, 2023-02-01, 10d
     Ensaio da apresentação :p2, after b1, 7d
     Apresentação e entrega  :milestone, after p1, 1d
 ```
