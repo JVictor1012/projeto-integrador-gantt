@@ -19,3 +19,7 @@
     Ensaio da apresentação :p2, after p1, 7d
     Apresentação e entrega  :milestone, after p2, 1d
 ```
+
+# DIAGRAMA DE COMPONENTES
+
+![imagem](diagrama_componentes.png)
